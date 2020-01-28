@@ -1,0 +1,16 @@
+DigitalOcean Droplets
+In this section we cover deploying to our own Linux servers. I recommend using the provider DigitalOcean because of two reasons
+
+It is cheap
+It is fast and reliable
+You can use the following link for registration to DigitalOcean, and it will give you $10 credit (which is renting a server for two months) httpsm.do.cocd54c088544ed. Do notice this is a referral link, but it does not make things more expensive for you; it simply gives you free starting credit.
+
+In addition, if you choose to continue using DigitalOcean, I receive $25 from them if you ever spend $25. It's a win-win scenario for both, but it's up to you whether you want to use it or not!
+
+If you prefer not to use the link above, just register at httpswww.digitalocean.com! It's free to register, although renting a server is not free.
+
+I'll see you in the next video!
+
+Kind regards,
+
+Jose—your instructor.

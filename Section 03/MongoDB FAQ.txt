@@ -1,0 +1,18 @@
+MongoDB FAQ
+Here are some frequently asked questions when connecting and running MongoDB as shown in the next video.
+
+When you watch the next video, if you get any of these problems, attempt the solutions proposed here. If it doesn't work, please ask a question in the course Q&A!
+
+1. I get a long error which contains the text exception in initAndListen 29 Data directory datadb not found., terminating.
+MongoDB needs a directory called datadb to place data in it. Run the following commands in the terminal
+
+On Mac (Terminal.app) sudo mkdir -p datadb && sudo chown `whoami` datadb
+
+On Windows (cmd.exe) md datadb
+
+2. I get a long error which contains the text exception in initAndListen 98 Unable to createopen lock file datadbmongod.lock errno13 Permission denied Is a mongod instance already running, terminating.
+This error should only happen on Mac or Linux. If it happens in Windows, please ask a question in the Q&A.
+
+On Mac sudo chown `whoami` datadb
+
+When shutting down MongoDB, press Control+C. Don't just close the terminal Window!

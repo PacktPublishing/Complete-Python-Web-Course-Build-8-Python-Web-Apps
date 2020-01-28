@@ -1,0 +1,12 @@
+https://getbootstrap.com/docs/4.3/components/jumbotron/
+
+https://getbootstrap.com/docs/4.3/components/navbar/
+
+https://getbootstrap.com/docs/4.3/components/alerts/
+
+https://flask.palletsprojects.com/en/1.0.x/patterns/flashing/
+
+https://passlib.readthedocs.io/en/stable/lib/passlib.hash.pbkdf2_digest.html
+
+https://www.youtube.com/watch?v=T-TwcmT6Rcw
+

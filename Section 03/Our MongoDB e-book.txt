@@ -1,0 +1,16 @@
+Our MongoDB e-book
+Hey!
+
+To help you in this section and in the coming sections, we've written a short MongoDB e-book.
+
+This e-book is meant to serve as a reference, so if you encounter any problems with MongoDB, check the e-book FAQ pages first!
+
+The e-book also has a section for how to install and set-up MongoDB on both Mac and Windows. These are here so you will have absolutely no issues getting everything set up locally!
+
+There is also a MongoDB with Python section in the e-book which may seem a bit advanced if you read it before going through this section. Don't worry! Use it as a reference and it will prove really useful.
+
+Access the e-book here - https://mongodb.tecladocode.com/
+
+Happy coding!
+
+- Jose

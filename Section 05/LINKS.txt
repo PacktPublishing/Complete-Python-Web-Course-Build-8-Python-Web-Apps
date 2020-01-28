@@ -1,0 +1,11 @@
+https://blog.tecladocode.com/logical-comparisons-in-python-and-or/
+
+https://blog.tecladocode.com/learn-python-string-formatting-in-python/
+
+https://mongodb.tecladocode.com/windows/1_installation.html
+
+https://mongodb.tecladocode.com/mac/1_installation.html
+
+https://stackoverflow.com/questions/2081640/what-exactly-do-u-and-r-string-flags-do-and-what-are-raw-string-literals/2081708#2081708
+
+https://blog.tecladocode.com/migrating-from-pip-virtualenv-to-pipenv/

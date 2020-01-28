@@ -1,0 +1,35 @@
+Installing Python in Ubuntu
+Preface
+This lecture is a text lecture because we spotted an error in the original video lecture. We're working to re-record the video lecture and bring it back, but in the meantime we thought it would be best to have the correct information in a text lecture, rather than incorrect information in a video lecture!
+
+Installing Python in Ubuntu
+To install Python in Ubuntu we need to
+
+Install required packages via apt
+
+Install the Python package
+
+Install pipenv to handle our environment
+
+Install the project's requirements
+
+First, the required packages and the Python package
+
+sudo apt install software-properties-common
+sudo add-apt-repository ppadeadsnakesppa
+sudo apt install build-essential python3.7-dev python3-pip python3.7
+Then, install pipenv
+
+pip3 install --user pipenv
+echo PATH=$HOME.localbin$PATH  ~.bashrc
+source ~.bashrc
+Finally, install the project's requirements.
+
+Make sure you are in the project folder that you cloned from git, as that has the Pipfile which contains all the requirements for our project. Then
+
+pipenv install
+Easy as that! If you encounter any problems, please let us know in the Course Q&A and we'll give you a hand.
+
+Happy coding!
+
+- Jose

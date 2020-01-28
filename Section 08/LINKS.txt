@@ -1,0 +1,6 @@
+https://serverfault.com/questions/674496/what-does-the-master-option-actually-do-in-uwsgi/857094#857094
+
+https://docs.mongodb.com/manual/tutorial/enable-authentication/
+
+https://www.digitalocean.com/community/questions/is-possible-to-have-xfs-on-ubuntu
+

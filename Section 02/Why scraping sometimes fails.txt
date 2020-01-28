@@ -1,0 +1,10 @@
+Why scraping sometimes fails
+Hey!
+
+In this section we use John Lewis to get pricing information. That's because John Lewis doesn't block us from accessing their site using a program, and because John Lewis doesn't use JavaScript.
+
+Those are two big reasons scraping can fail. For this section, please use the same website as I do in the videos to make sure your code works. After you're sure it works, you can change the site to something you're more interested in.
+
+That way, you'll know whether the code is not working, or the site is blocking us or using JavaScript.
+
+So... why does scraping not work with JavaScript I've written a blog post on that httpblog.tecladocode.comwhy-scraping-fail-requests-beautifulsoup-python

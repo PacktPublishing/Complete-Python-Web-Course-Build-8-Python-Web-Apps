@@ -1,0 +1,24 @@
+Logging out
+Hey there!
+
+Logging in means that when we get a cookie from the user, we can map it to a session in our server and that session contains something meaningful. In our application, if the session contains an 'email', that tells us the user logged in.
+
+That's because when the user sends us their email and password to log in, we put their email in the session.
+
+The only way email could be in the session is if the user logged in.
+
+So how could we perform a log out
+
+Simple, just remove the email from the session. Something like this
+
+@user_blueprint.route('logout')
+def logout()
+    session['email'] = None
+    return redirect('.user_login')
+What happens next is that when the user tries to access a protected endpoint, we'll see if 'email' has a value. Since it doesn't, we'll know the user is logged out. They'll need to log back in for session['email'] to be populated!
+
+As with many things in web programming, moving data from one place to another (in this case, the user's email) is the way to achieve most things.
+
+Happy coding!
+
+Jose

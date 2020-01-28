@@ -1,0 +1,16 @@
+Get the course e-book!
+Hello! Thank you for signing up to the course!
+
+To make your learning easier, I've created an e-book to go along the course. This e-book covers the first few sections of the course content so that while you get started, you have this extra reference.
+
+You can read the e-book here httpsjslvtr.gitbooks.iocomplete-python-webcontent
+https://jslvtr.gitbooks.io/complete-python-web/content/
+
+For those of you who are completely new to Python and programming, we've also written this other e-book. It isn't directly related to course contents, but it does teach Python fundamentals which are very good to know. I recommend giving it a quick read if diving right into the videos seems a bit daunting.
+
+Link to the Python e-book httpspython.tecladocode.com
+https://python.tecladocode.com/
+
+Your instructor,
+
+Jose
